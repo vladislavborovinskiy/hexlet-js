@@ -1,12 +1,14 @@
 {
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "4.17.21"
   },
   "name": "hexlet",
   "description": "Мой первый проект на Хекслете",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
